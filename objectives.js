@@ -1,0 +1,78 @@
+export const objectives = [
+    // FIRST YEAR OBJECTIVE BEGINS HERE
+
+    {id:0, section_name:".firstyear_first_quarter",
+    title:"First Quarter (Months 1-3): Fundamentals of Web Development",
+    first_objective:"Learn HTML, CSS, and basic JavaScript.", 
+    second_objective: 'Create static web pages to practice HTML and CSS skills.', 
+    third_objective: 'Complete at least one online course or bootcamp on web development basics.',
+    first_affirmation:"I am building a solid foundation in web development by mastering the basics.",
+    second_affirmation: "I am enhancing my design skills by creating visually appealing web pages.",
+    third_affirmation: "I am dedicated to continuous learning and growth in web development."  
+    },
+    {id:1, section_name:".firstyear_second_quarter",
+    title: "Second Quarter (Months 4-6): Advanced Javascript and Responsive Design",
+    first_objective:"Deepen understanding of JavaScript, including ES6+ features.", 
+    second_objective: 'Learn and implement responsive web design techniques.', 
+    third_objective: 'Start a small project to apply what I’ve learned',
+    first_affirmation:"I am becoming proficient in JavaScript, enabling me to create dynamic websites.",
+    second_affirmation: "I am committed to building websites that look great on all devices.",
+    third_affirmation: "I am applying my knowledge through hands-on projects, enhancing my skills."
+    },
+    {id:2, section_name:".firstyear_third_quarter",
+    title: "Third Quarter (Months 7-9): Frontend Frameworks and Libraries",
+    first_objective:"Learn a frontend framework/library like React.js or Vue.js.", 
+    second_objective: 'Build a dynamic web application using the chosen framework.', 
+    third_objective: 'Engage with the developer community (forums, meetups, GitHub).',
+    first_affirmation:"I am expanding my skill set by mastering modern frontend frameworks.",
+    second_affirmation: "I am capable of building complex, dynamic applications.",
+    third_affirmation: "I am growing my network and learning from the developer community."
+    },
+    {id:3, section_name:".firstyear_fourth_quarter",
+    title: "Fourth Quarter (Months 10-12): Portfolio Development and Intermediate Projects",
+    first_objective:" Create a professional portfolio showcasing my projects.", 
+    second_objective: 'Work on intermediate-level projects to further develop my skills.', 
+    third_objective: 'Begin exploring backend development basics (Node.js, Express).',
+    first_affirmation:"I am building a portfolio that reflects my skills and achievements.",
+    second_affirmation: "I am continually improving by challenging myself with more complex projects.",
+    third_affirmation: "I am laying the groundwork to become a full-stack developer."
+    },
+
+    // SECOND YEAR OBJECTIVES BEGINS HERE
+    {id:4, section_name:".secondyear_first_quarter",
+    title: "First Quarter (Months 13-15): Backend Development Fundamentals",
+    first_objective:"Learn the basics of backend development using Node.js and Express.", 
+    second_objective: 'Build simple RESTful APIs to understand server-side logic.', 
+    third_objective: 'Integrate my frontend projects with backend APIs.',
+    first_affirmation:"I am broadening my horizons by mastering backend development.",
+    second_affirmation: "I am capable of creating efficient and scalable server-side applications.",
+    third_affirmation: "I am merging my frontend and backend skills to build full-stack applications"
+    },
+    {id:5, section_name:".secondyear_second_quarter", 
+    title: "Second Quarter (Months 16-18): Database Management and Authentication",
+    first_objective:"Learn about databases (SQL and NoSQL) and how to integrate them with my applications.", 
+    second_objective: 'Implement user authentication and authorization in my projects.', 
+    third_objective: 'Work on a full-stack project to showcase my abilities.',
+    first_affirmation:"I am skilled in managing and integrating databases to enhance application functionality.",
+    second_affirmation: "I am ensuring the security and reliability of my applications.",
+    third_affirmation: "I am demonstrating my full-stack development skills through comprehensive projects."
+    },
+    {id:6, section_name:".secondyear_third_quarter",
+    title: "Third Quarter (Months 19-21): Advanced Full-Stack Projects and Optimization", 
+    first_objective:"Build advanced full-stack applications with complex functionalities.", 
+    second_objective: 'Learn about performance optimization and best practices.', 
+    third_objective: 'Contribute to open-source projects to gain real-world experience.',
+    first_affirmation:"I am proficient in building advanced, full-stack applications.",
+    second_affirmation: "I am ensuring the security and reliability of my applications.",
+    third_affirmation: "I am enhancing my skills and giving back to the community through open-source contributions."
+    },
+    {id:7, section_name:".secondyear_fourth_quarter", 
+    title: "Fourth Quarter (Months 22-24): Professional Development and Job Preparation",
+    first_objective:"Prepare a compelling resume and LinkedIn profile highlighting my skills and projects.", 
+    second_objective: 'Apply for full-stack developer positions and attend interviews.', 
+    third_objective: 'I am worthy of earning a competitive salary that reflects my skills and dedication.',
+    first_affirmation:"I am ready to showcase my expertise and accomplishments to potential employers.",
+    second_affirmation: "I am confident in my abilities and ready to secure a full-stack developer role.",
+    third_affirmation: "I am enhancing my skills and giving back to the community through open-source contributions."
+    },
+]
